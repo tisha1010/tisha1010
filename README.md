@@ -56,6 +56,7 @@ Building intelligent digital experiences through code, creativity, and research.
 
 
 
+
 ## 🧪 Currently Exploring
 
 * AI-powered web experiences
@@ -75,6 +76,19 @@ Design with clarity.
 Learn continuously.
 Create meaningful experiences.
 ```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7C5CFC&center=true&vCenter=true&width=800&lines=Creative+Developer;AI+%26+Frontend+Enthusiast;Building+Modern+Digital+Experiences;Exploring+Research+%26+Innovation" alt="Typing SVG" />
+</p>
+
+---
+
+## ⚡ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,mysql,python,git,github,vscode,wordpress,figma,vercel" />
+</p>
+
+---
 
 ---
 
